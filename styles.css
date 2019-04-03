@@ -1,5 +1,6 @@
 p{
     margin: 25px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 article{
@@ -9,7 +10,7 @@ article{
 header{
     color: rebeccapurple;
     font-size: 2em;
-    font-family: Arial;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .capitalize{
@@ -17,5 +18,9 @@ header{
 }
 
 .cursive{
+    font-family: cursive;
+}
+
+#credit{
     font-family: cursive;
 }
