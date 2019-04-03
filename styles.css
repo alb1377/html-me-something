@@ -6,3 +6,16 @@ article{
     padding: 25px;
 }
 
+header{
+    color: rebeccapurple;
+    font-size: 2em;
+    font-family: Arial;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.cursive{
+    font-family: cursive;
+}
