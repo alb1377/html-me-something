@@ -1,16 +1,19 @@
 p{
     margin: 25px;
     font-family: 'Courier New', Courier, monospace;
+    background-color: lightpink;
 }
 
 article{
     padding: 25px;
+    background-color:  lightpink;
 }
 
 header{
-    color: rebeccapurple;
+    color: rgb(52, 14, 90);
     font-size: 2em;
     font-family: 'Courier New', Courier, monospace;
+    background-color:  lightpink;
 }
 
 .capitalize{
